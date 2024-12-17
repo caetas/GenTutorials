@@ -31,7 +31,7 @@ Clone this repository (requires git ssh keys)
 You can setup the virtualenv by running the following commands:
 
     python -m venv .venv-dev
-    source activate .venv-dev
+    source .venv-dev/bin/activate
     python -m pip install --upgrade pip setuptools
     python -m pip install -r requirements.txt
 
