@@ -47,6 +47,7 @@ You can setup the virtualenv by running the following commands:
 ## Notebooks
 
 The [`Diffusion Notebook`](DiffusionNotebook.ipynb) covers Denoising Diffusion Probabilistic Models ([DDPMs](https://arxiv.org/abs/2006.11239)) and Denoising Diffusion Implicit Models ([DDIMs](https://arxiv.org/abs/2010.02502))
+The [`Score-Based Notebook`](ScoreBasedNotebook.ipynb) covers Score Matching Models ([SMs](https://arxiv.org/abs/2011.13456)) and Flow Matching Models ([FMs](https://arxiv.org/abs/2210.02747))
 
 ## Extra Resources
 
